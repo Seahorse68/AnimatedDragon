@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: f1eaa9db19a24484ab73ecf7430c1933
+timeCreated: 1473430895
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragon_0
+    21300002: dragon_1
+    21300004: dragon_2
+    21300006: dragon_3
+    21300008: dragon_4
+    21300010: dragon_5
+    21300012: dragon_6
+    21300014: dragon_7
+    21300016: dragon_8
+    21300018: dragon_9
+    21300020: dragon_10
+    21300022: dragon_11
+    21300024: dragon_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 74
+        width: 209
+        height: 197
+      alignment: 9
+      pivot: {x: 0.7824823, y: 0.18494195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 98
+        width: 117
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5207019, y: 0.24273884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 132
+        width: 108
+        height: 139
+      alignment: 9
+      pivot: {x: 0.07669237, y: 0.10793266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 167
+        width: 56
+        height: 103
+      alignment: 9
+      pivot: {x: 0.44052887, y: 0.0649617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 15
+        width: 90
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5067281, y: 0.85541755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 121
+        width: 56
+        height: 43
+      alignment: 9
+      pivot: {x: 0.71625954, y: 0.5422459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 5
+        width: 101
+        height: 90
+      alignment: 9
+      pivot: {x: 0.8717092, y: 0.614377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 72
+        width: 80
+        height: 47
+      alignment: 9
+      pivot: {x: 0.19345245, y: 0.38404813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.79645556, y: 0.2515786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 49
+        height: 29
+      alignment: 9
+      pivot: {x: 0.543252, y: 0.7818827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 24
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6387666, y: 0.21994391}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 23
+        height: 39
+      alignment: 9
+      pivot: {x: 0.40785548, y: 0.18947327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dragon_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
