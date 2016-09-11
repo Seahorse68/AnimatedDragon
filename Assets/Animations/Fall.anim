@@ -18,23 +18,23 @@ AnimationClip:
       m_Curve:
       - time: 0
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 46.576004}
-        outSlope: {x: 0, y: 0, z: 46.576004}
+        inSlope: {x: 0, y: 0, z: -180}
+        outSlope: {x: 0, y: 0, z: -180}
         tangentMode: 0
       - time: 0.5
-        value: {x: 0, y: 0, z: 23.288002}
+        value: {x: 0, y: 0, z: -90}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
       - time: 1
         value: {x: 0, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: -46.576004}
-        outSlope: {x: 0, y: 0, z: -46.576004}
+        inSlope: {x: 0, y: 0, z: 180}
+        outSlope: {x: 0, y: 0, z: 180}
         tangentMode: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Body/Head
+    path: Body
   m_PositionCurves: []
   m_ScaleCurves: []
   m_FloatCurves: []
@@ -46,7 +46,7 @@ AnimationClip:
     m_Extent: {x: 0, y: 0, z: 0}
   m_ClipBindingConstant:
     genericBindings:
-    - path: 694585260
+    - path: 2073732236
       attribute: 4
       script: {fileID: 0}
       classID: 4
@@ -96,7 +96,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.x
-    path: Body/Head
+    path: Body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -121,7 +121,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.y
-    path: Body/Head
+    path: Body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -129,24 +129,24 @@ AnimationClip:
       m_Curve:
       - time: 0
         value: 0
-        inSlope: 46.576004
-        outSlope: 46.576004
+        inSlope: -180
+        outSlope: -180
         tangentMode: 10
       - time: 0.5
-        value: 23.288002
+        value: -90
         inSlope: 0
         outSlope: 0
         tangentMode: 10
       - time: 1
         value: 0
-        inSlope: -46.576004
-        outSlope: -46.576004
+        inSlope: 180
+        outSlope: 180
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: localEulerAnglesRaw.z
-    path: Body/Head
+    path: Body
     classID: 4
     script: {fileID: 0}
   m_EulerEditorCurves:
@@ -157,7 +157,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.x
-    path: Body/Head
+    path: Body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -167,7 +167,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: Body/Head
+    path: Body
     classID: 4
     script: {fileID: 0}
   - curve:
@@ -177,7 +177,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: Body/Head
+    path: Body
     classID: 4
     script: {fileID: 0}
   m_HasGenericRootTransform: 0
